@@ -48,9 +48,7 @@ void loop() {
   setAngleOffset();
   current_degree = 0;
 
-  // DropB();
-  // DropF();
-  //Box1();  
+  Box1();  
   Box2();
   Box3();
   Box4();
